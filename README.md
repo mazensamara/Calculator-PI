@@ -4,4 +4,4 @@
 - This project is about Python calculator
 - This is a python project
 - This project creates a physical calculator
-- to be done: integrate with Raspberry PI
+- To be done: integrate with Raspberry PI
