@@ -24,7 +24,7 @@ while True:
         print('Enter a valid operator')
     print(a, op, b, ' = ', result)
 
-    # Optional to start or quit
+    # Optional to restart or quit
     d = input("Do you wish to quit? Please type ( Y, y, N, n ): ")
     if d == "Y" or d == "y":
         print("Thank you")
